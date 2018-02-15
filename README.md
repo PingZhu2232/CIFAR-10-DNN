@@ -1,1 +1,1 @@
-## CIFAR-10 CLASSIFICATION USING SIMPLE DNN
+## CIFAR-10 classification using simple DNN
