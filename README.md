@@ -1,1 +1,1 @@
-# image_recognition
+## CIFAR-10 CLASSIFICATION USING SIMPLE DNN
